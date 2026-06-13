@@ -187,14 +187,10 @@ Architected and deployed multiple full-stack applications, managing the entire s
 
 ---
 
-## ✦ Contribution Snake
+## ✦ Tech & Code Metrics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ranjithth73-tech/ranjithth73-tech/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ranjithth73-tech/ranjithth73-tech/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/ranjithth73-tech/ranjithth73-tech/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ranjithth73-tech&theme=tokyonight" alt="Profile Details" width="100%" />
 </div>
 
 ---
