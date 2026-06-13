@@ -1,19 +1,25 @@
+## ✦ Connect
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=8A2BE2&height=150&section=header&text=RANJITH%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header Banner" />
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;Python+%26+Django+Specialist;Secure+Backend+Architect;React+Enthusiast" alt="Typing SVG" />
-  <br /><br />
-  <img src="https://img.shields.io/badge/B.A._-_Govt_College,_Malappuram-4B0082?style=for-the-badge&logo=academia&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Kerala,_India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location Badge" />
-  <br /><br />
-  <a href="https://ranjithth.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ranjithth-krpt/"><img src="https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:ranjithth73@gmail.com"><img src="https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/ranjithth73-tech"><img src="https://img.shields.io/badge/GitHub-4B0082?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=ranjithth73-tech&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ranjithth73-tech?label=Followers&style=flat-square&color=4B0082" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ranjithth73-tech?label=Stars&style=flat-square&color=8A2BE2" alt="Stars" />
+  <!-- Gmail -->
+  <a href="mailto:ranjithth73@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/ranjithth-krpt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <!-- GitHub -->
+  <a href="https://github.com/ranjithth73-tech">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  
+  <!-- Portfolio -->
+  <a href="https://ranjithth.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
 </div>
 
 ---
