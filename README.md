@@ -18,11 +18,11 @@
 
 ## ✦ About Me
 
-Dedicated **Full-Stack Web Developer** with hands-on experience in designing, building, and deploying secure, production-ready web applications[cite: 1]. My product engineering mindset drives me to build scalable backend architectures and seamless frontend experiences that deliver robust business solutions[cite: 1].
+Dedicated **Full-Stack Web Developer** with hands-on experience in designing, building, and deploying secure, production-ready web applications. My product engineering mindset drives me to build scalable backend architectures and seamless frontend experiences that deliver robust business solutions.
 
-*   **Software Engineering:** Skilled in writing clean, maintainable code with a strong foundation in analytical thinking and software design principles[cite: 1].
-*   **Backend & Security:** Deep expertise in Python, Django, Django REST Framework, and PostgreSQL[cite: 1]. Experienced in building RESTful APIs, authentication systems, and integrated payment gateways like Stripe[cite: 1].
-*   **Full Stack Development:** Seamlessly integrating React frontends with Django backends for optimized data flow and responsive, modern user interfaces[cite: 1].
+*   **Software Engineering:** Skilled in writing clean, maintainable code with a strong foundation in analytical thinking and software design principles.
+*   **Backend & Security:** Deep expertise in Python, Django, Django REST Framework, and PostgreSQL. Experienced in building RESTful APIs, authentication systems, and integrated payment gateways like Stripe.
+*   **Full Stack Development:** Seamlessly integrating React frontends with Django backends for optimized data flow and responsive, modern user interfaces.
 
 ---
 
@@ -38,17 +38,17 @@ Dedicated **Full-Stack Web Developer** with hands-on experience in designing, bu
 
 <details>
 <summary><b>1. FocusFox - Task Management Application</b></summary>
-A full-stack task management system using Django REST APIs and React, featuring task creation, scheduling, and JWT authentication[cite: 1].
+A full-stack task management system using Django REST APIs and React, featuring task creation, scheduling, and JWT authentication.
 </details>
 
 <details>
 <summary><b>2. LIBRA Shop - E-Commerce Backend System</b></summary>
-A scalable e-commerce backend using Django and PostgreSQL, featuring Stripe payment integration and role-based access control[cite: 1].
+A scalable e-commerce backend using Django and PostgreSQL, featuring Stripe payment integration and role-based access control.
 </details>
 
 <details>
 <summary><b>3. Doctor Booking System - Web Application</b></summary>
-An appointment booking platform with user and admin authentication, doctor profile management, and scheduling functionality[cite: 1].
+An appointment booking platform with user and admin authentication, doctor profile management, and scheduling functionality.
 </details>
 
 ---
