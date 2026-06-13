@@ -2,11 +2,11 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    # Runs every day at midnight
     - cron: "0 0 * * *"
-  
-  # Allows manual trigger from the Actions tab
   workflow_dispatch:
+
+permissions:                # Add this block
+  contents: write           # This gives the bot permission to write
 
 jobs:
   generate:
