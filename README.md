@@ -172,9 +172,8 @@ Architected and deployed multiple full-stack applications, managing the entire s
 ---
 
 ## ✦ GitHub Trophies
-
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranjithth73-tech&theme=radical&row=1&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ranjithth73-tech&theme=tokyonight" alt="GitHub Trophies" />
 </div>
 
 ---
